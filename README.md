@@ -235,7 +235,7 @@ Non-obvious choices made in this project and why:
 
 ---
 
-## 👤 Author
+## 👤 Author: SUBODH BHATTA
 
 **Socode6**  
 Advanced Python & Data Science — Submission Project
